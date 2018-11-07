@@ -1,0 +1,81 @@
+body{
+
+	background: url(https://fiorerouge.files.wordpress.com/2013/01/background-degrade.jpg);
+  background-size:1600px;
+}
+#lesion,  #vigil{
+
+
+	position: center;
+
+	width: 440px;
+	border-radius:30px;
+border-style: solid;
+border-color: blue;
+
+}
+#ash{
+position: center;
+
+	width: 450px;
+	border-radius:30px;
+border-style: dashed;
+border-color: black;
+
+
+
+}
+#cabeca {
+
+	font-family: 'Aton', cursive;
+	color:white;
+}
+ 
+
+ #textlesion{
+
+object-position: right;
+	color: black;
+ 	font-family: 'Aton', cursive;
+
+
+ }
+
+ #textash{ 
+ 	object-position: center;
+ 	color: #FF4500;
+ 	font-family: 'Aton', cursive;
+ 	
+
+ }
+
+ #textvigil{
+ 	object-position: left;
+ 	color: black;
+ 	font-family: 'Aton', cursive;
+ 	
+
+ }
+ #botao{
+
+ 	background: pink;
+ }
+
+ #rodape{
+	line-height: 1em;
+	text-indent: 1em;
+	border-radius: 15px;
+	background : radial-gradient(  white,#FF4500);
+	background-size: 100%;
+
+
+
+}
+
+#facebook{
+width: 140px;
+}
+
+#linkedin{
+width: 140px;	
+}
